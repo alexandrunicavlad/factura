@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="main_button_color">#39C6AE</color>
+    <color name="main_text_color">#0179fe</color>
+    <color name="background_color">#f0eff5</color>
+    <color name="black_text_color">#212121</color>
+    <color name="gray_text">#555555</color>
+    <color name="gray_border">#b5b5b5</color>
+    <color name="popup_color">#4FBEC9</color>
+
+    <color name="popup_add">#225B5D</color>
+    <color name="orange_text">#fd8c1c</color>
+    <color name="white">#ffffffff</color>
+    <color name="toolbar_color">#3AAFB2</color>
+    <color name="popup_color_dark">#2f8e91</color>
+    <color name="choose_color_background">#5FC1C6</color>
+    <color name="picker_color">#3B8D8F</color>
+    <color name="divider_color">#D6D6D6</color>
+    <color name="text_blue_light">#4CBAFB</color>
+    <color name="background_category">#CBCBCB</color>
+    <color name="spinner_config">#EBEBEB</color>
+    <color name="row_config">#fcfcfc</color>
+    <color name="red_color">#FF0000</color>
+
+</resources>
